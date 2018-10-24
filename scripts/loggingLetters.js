@@ -69,5 +69,3 @@
 //   return searchCount;
 // }
 // console.log(countingCharacters3(prompt(`Enter a string`), prompt(`Enter a search`)));
-
-console.log(Math.random());
