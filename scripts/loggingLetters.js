@@ -69,3 +69,16 @@
 //   return searchCount;
 // }
 // console.log(countingCharacters3(prompt(`Enter a string`), prompt(`Enter a search`)));
+
+
+// //CODE-ALONG: Rolling Dice
+// function rollDice() {
+//   return console.log(Math.floor(Math.random() * prompt("Enter a number from 4-21")) + 1);
+// }
+// rollDice();
+
+//CODE-ALONG: Defining Functions
+function addTwoNumbers(firstNum, secondNum) {
+  return console.log(firstNum + secondNum);
+}
+addTwoNumbers(1,2);
