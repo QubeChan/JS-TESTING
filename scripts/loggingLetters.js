@@ -77,8 +77,14 @@
 // }
 // rollDice();
 
-//CODE-ALONG: Defining Functions
-function addTwoNumbers(firstNum, secondNum) {
-  return console.log(firstNum + secondNum);
+// //CODE-ALONG: Defining Functions
+// function addTwoNumbers(firstNum, secondNum) {
+//   return console.log(firstNum + secondNum);
+// }
+// addTwoNumbers(1,2);
+
+var tries;
+for (tries = 0; tries < 5; tries++) {
+  console.log(tries);
 }
-addTwoNumbers(1,2);
+console.log(tries);
